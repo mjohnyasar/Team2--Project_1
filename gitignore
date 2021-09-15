@@ -1,11 +1,6 @@
 .DS_Store
+.vscode/
 autentications.js
 node_modules
-
 notes/
 **/*-todo.md
-
-.idea
-.jpynb_checkpoints
-.pytest_cache
-.vscode/
